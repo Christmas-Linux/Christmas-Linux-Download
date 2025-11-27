@@ -1,0 +1,28 @@
+# Christmas Linux - Recommended Packages
+
+# Development Tools
+python3
+python3-pip
+gcc
+g++
+make
+cmake
+git
+nodejs
+npm
+
+# System Tools
+htop
+neofetch
+nano
+vim
+wget
+curl
+
+# Networking
+openssh
+rsync
+
+# Entertainment
+cmatrix
+sl
